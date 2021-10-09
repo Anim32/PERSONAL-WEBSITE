@@ -1,0 +1,17 @@
+.header-area{
+    background-image: url(images/header-bg.png);
+}
+.half-width {
+    width: 40%;
+    float: left;
+     margin-left: 5%;
+     padding-left: 2%;
+
+}
+.half-width img {
+    width: 100%;
+}
+
+.for-center{
+    text-align: center;
+}
